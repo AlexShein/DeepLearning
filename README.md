@@ -1,2 +1,2 @@
-# DeepLearning
-Trying out modern deep learning frameworks
+# Transposon tails recognition
+Trying CNN to improve results of transposon tails recognition
